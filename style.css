@@ -1,0 +1,22 @@
+/* p{
+    background-color: aqua;
+}
+
+.prateek{
+    color: red;
+
+}
+
+#pratee{
+    background-position: initial;
+} */
+
+
+.box{
+    color: aqua;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 20 solid black;
+    margin: 40px;
+}
